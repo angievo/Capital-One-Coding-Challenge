@@ -17,4 +17,6 @@ Once you select the "Summarize Extension" folder, the extension should be added 
 
 ![chrome-setup3](https://github.com/angievo/screenshots/blob/master/chrome-setup3.png?raw=true)
 
+### Usage 
+
 
