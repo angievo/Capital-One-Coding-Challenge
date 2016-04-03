@@ -3,7 +3,7 @@ A Chrome extension that will summarize the key points of an article, and return 
 
 ### Setup
 
-Create a folder named "Summarizer Extension" and download the following files into the folder: manifest.json, popup.html, popup.js
+Create a folder named "Summarizer Extension" and download the following files into the folder: icon.png, manifest.json, popup.html, popup.js
 
 Type in chrome://extensions in your browser then click 'Load unpacked extension...' on the upper left hand side of the screen
 
