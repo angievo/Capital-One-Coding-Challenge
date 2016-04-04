@@ -21,10 +21,12 @@ Once you select the "Summarize Extension" folder, the extension should be added 
 
 Go to the page of any article and click on the newspaper icon in the top right hand corner of the browser. Then click "Get a summary now!"
 
-![chrome-setup4](https://github.com/angievo/screenshots/blob/master/chrome-setup4.png?raw=true)
+![chrome-setup5](https://github.com/angievo/screenshots/blob/master/chrome-setup5.png?raw=true)
 
 The extension reads in the URL of the current page to summarize its contents or the user can paste in a snippet of text to be summarized. It also includes a feature in which the user can choose how many sentences the summary will be where it says "Type the summarized sentence number you need." The default sentence number is 6. 
 
-![chrome-setup5](https://github.com/angievo/screenshots/blob/master/chrome-setup5.png?raw=true)
+![chrome-setup55](https://github.com/angievo/screenshots/blob/master/chrome-setup55.png?raw=true)
+
+![chrome-setup6](https://github.com/angievo/screenshots/blob/master/chrome-setup6.png?raw=true)
 
 
