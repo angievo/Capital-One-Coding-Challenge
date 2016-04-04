@@ -1,5 +1,5 @@
 # Article Analyzer
-A Chrome extension that will summarize the key points of an article, and return the number of sentences that you want for the summary. 
+This Chrome extension uses the API, Text Summarizer, to sum up the key points of an article, and return the number of sentences that the user want for the summary. 
 
 ### Setup
 
@@ -26,6 +26,8 @@ Go to the page of any article and click on the newspaper icon in the top right h
 The extension reads in the URL of the current page to summarize its contents or the user can paste in a snippet of text to be summarized. It also includes a feature in which the user can choose how many sentences the summary will be where it says "Type the summarized sentence number you need." The default sentence number is 6. 
 
 ![chrome-setup55](https://github.com/angievo/screenshots/blob/master/chrome-setup55.png?raw=true)
+
+Here, the extension returns the summary of this article in 6 sentences
 
 ![chrome-setup6](https://github.com/angievo/screenshots/blob/master/chrome-setup6.png?raw=true)
 
